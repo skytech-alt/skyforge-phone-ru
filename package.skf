@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-phone-ru"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Валидация российских телефонов."
+    репозиторий = "github.com/skytech-alt/skyforge-phone-ru"
+    точка_входа = "code/main.skf"
+    теги = ["phone", "russia", "validate"]
+    лицензия = "MIT"
+    зависимости = []
+}
